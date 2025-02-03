@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svenbosgoed&label=Profile%20views&color=0e75b6&style=flat" alt="svenbosgoed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svenbosgoed" alt="svenbosgoed" /></a> </p>
-
-- 🔭 I’m currently working on **Shopify scraper**
+- 🔭 I’m currently working on **a Shopify scraper with a automatic ad generation**
 
 - 🌱 I’m currently learning **NextJS, cybersecurity, networking, servers**
 
