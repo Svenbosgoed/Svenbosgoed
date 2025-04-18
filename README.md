@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svenbosgoed&label=Profile%20views&color=0e75b6&style=flat" alt="svenbosgoed" /> </p>
 
-- 🔭 I’m currently working on **a Planning app for companies like Barbers and BeautySalons**
+- 🔭 I’m currently working on **No project**
 
 - 🌱 I’m currently learning **NextJS, cybersecurity, networking, servers**
 
